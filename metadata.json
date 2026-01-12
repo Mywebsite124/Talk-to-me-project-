@@ -1,0 +1,8 @@
+{
+  "name": "Talk to me - Premium Video Dating",
+  "description": "A premium dating platform featuring exclusive video call subscriptions and real-time interactive experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
